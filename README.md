@@ -1,6 +1,5 @@
 # wikipedia-bias
-Luke Wiljanen
-Luca Heines
+Luke Wiljanen, Luca Heines
 
 [literature Review](literature-review.md)
 
