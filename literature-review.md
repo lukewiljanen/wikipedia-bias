@@ -1,15 +1,15 @@
 ## Relevant Research Articles
 Koerner & Reagle (2020, Wikipedia @ 20)
-Explores structural biases in Wikipedia caused by editor demographics and uneven coverage.
+<br>Explores structural biases in Wikipedia caused by editor demographics and uneven coverage.
 
 Schmahl et al. (2018)
-Measures gender bias in Wikipedia text using word embeddings, showing stereotypes persist despite improvements.
+<br>Measures gender bias in Wikipedia text using word embeddings, showing stereotypes persist despite improvements.
 
 Habibi, Hovy & Schwarz (2024)
-Shows moderation can unintentionally distort discourse, relevant to AI reshaping Wikipedia content.
+<br>Shows moderation can unintentionally distort discourse, relevant to AI reshaping Wikipedia content.
 
 Ma & Zhang (2023)
-Examines representation bias in Wikidata, highlighting how automation and imports reinforce imbalances.
+<br>Examines representation bias in Wikidata, highlighting how automation and imports reinforce imbalances.
 
 ## Sources
 Koerner, J., & Reagle, J. (2020). Wikipedia Has a Bias Problem. In Wikipedia @ 20. MIT Press. [Link](https://wikipedia20.mitpress.mit.edu/pub/rpamp9jh/release/2)
