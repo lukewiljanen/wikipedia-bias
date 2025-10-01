@@ -16,6 +16,6 @@ Koerner, J., & Reagle, J. (2020). Wikipedia Has a Bias Problem. In Wikipedia @ 2
 
 Schmahl, R., Tarabalka, Y., & et al. (2018). Is Wikipedia succeeding in reducing gender bias? Wiki Workshop. [pdf](https://wikiworkshop.org/2018/papers/wikiworkshop2018_paper_1.pdf)
 
-Habibi, A., Hovy, D., & Schwarz, F. (2024). Removal of Toxic Content and Distortions to Online Discourse. arXiv.[link](https://arxiv.org/abs/2412.16114)
+Habibi, A., Hovy, D., & Schwarz, F. (2024). Removal of Toxic Content and Distortions to Online Discourse. arXiv. [Link](https://arxiv.org/abs/2412.16114)
 
 Ma, Y., & Zhang, J. (2023). Understanding Structured Knowledge Production: A Case Study of Wikidata’s Representation Injustice. arXiv. [Link](https://arxiv.org/abs/2311.02767)
