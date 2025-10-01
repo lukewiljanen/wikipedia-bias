@@ -21,7 +21,7 @@ Gender bias in Wikipedia articles often shows up through unequal coverage, langu
 
 
 ## Methodology
-This project analyzes Wikipedia articles to investigate how bias can be detected. Using Python, we extract text summaries from Wikipedia pages and identify potential biased language by searching for specific indicator words associated with subjective or opinionated writing.
+This project will analyze Wikipedia articles to investigate how bias can be detected. Using Python, we can extract text summaries from Wikipedia pages and identify potential biased language by searching for specific indicator words associated with biased writing.
 
 We also incorporate research from prior studies on Wikipedia bias, such as structural editor biases, gender bias in text, and the influence of automation on content representation. By combining text analysis with metadata on edits and editor activity, we track patterns of bias introduction and correction over time.
 
