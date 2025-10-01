@@ -31,7 +31,7 @@ for word in bias_indicators:
 
 if found:
     print("Found these bias words")
-for word in found:
-    print(f" - {word}")
+    for word in found:
+        print(f" - {word}")
 else:
     print("Looks pretty neutral")

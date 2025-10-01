@@ -26,5 +26,5 @@ This project analyzes Wikipedia articles to investigate how bias can be detected
 We also incorporate research from prior studies on Wikipedia bias, such as structural editor biases, gender bias in text, and the influence of automation on content representation. By combining text analysis with metadata on edits and editor activity, we track patterns of bias introduction and correction over time.
 
 ### test_wikipedia_api.py
-
+This simple python program takes a Wikipedia link as input, extracts the page title, and fetches a short summary of the topic. Then it scans the summary for a set of predefined bias indicators that may suggest biased language. If any of these words appear in the summary, the script displays them, if not, it reports that no bias indicators were found.
 
