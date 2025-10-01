@@ -4,19 +4,19 @@ Luke Wiljanen, Luca Heines
 [literature Review](literature-review.md)
 
 ## Abstract
-This project explores how AI can be used to detect and analyze bias in Wikipedia content. Drawing from prior research on structural, gender, and representation biases, it examines how biased language appears, evolves, or is corrected over time. Using Wikipedia's text and edit histories, the study applies word embeddings, metadata analysis, and simple bias detection tools to trace patterns of bias across articles and topics. A key focus is on how AI-assisted editing impacts the persistence or reduction of these biases, and whether community revisions help mitigate or unintentionally reinforce them.
+This project explores how AI can be used to detect and analyze bias in Wikipedia content. Using prior research on structural, gender, and representation biases, it examines how biased language appears, evolves, or is corrected over time. Using Wikipedia's text and edit histories, the study applies word embeddings, metadata analysis, and simple bias detection tools to trace patterns of bias across articles and topics. A key focus is on how AI-assisted editing impacts the persistence or reduction of these biases, and whether community revisions help mitigate or unintentionally reinforce them. Furthermore, this project dives into gender biases and how credible AI is at detecting such bias.
 
 
 ## Research Questions
 <b>How does AI-assisted editing influence the introduction and persistence of bias in Wikipedia, and what patterns show whether community revisions reduce or reinforce these biases?</b>
 
-As AI tools become more integrated into Wikipedia editing, they have the potential to both reduce and introduce bias. While they can flag problematic content at scale, they may also replicate biases from their training data. This project examines how AI-assisted edits influence the presence of bias over time, and whether human revisions help correct or unintentionally reinforce those biases. Understanding these patterns is key to ensuring AI supports a more neutral and inclusive Wikipedia.
+As AI tools become more integrated into Wikipedia editing, they have the potential to both reduce and introduce bias. While they can flag problematic content, they may also replicate biases from the data they are trained on. This project examines how AI-assisted edits influence the presence of bias over time, and whether human revisions help correct or unintentionally reinforce those biases.
 
 <br>
 
 <b>Can AI models actually detect gender bias in Wikipedia articles?</b>
 
-Gender bias in Wikipedia biographies often shows up through unequal coverage, language, or framing of women compared to men. AI models offer a scalable way to detect these patterns, but they may also reflect the same biases present in their training data. This project explores how effectively AI can identify gender bias and what limitations exist when relying on automated tools for such a nuanced issue.
+Gender bias in Wikipedia articles often shows up through unequal coverage, language, or framing of women compared to men. AI models offer a way to detect these patterns, but they may also reflect the same biases present in their training data. This project explores how effectively AI can identify gender bias and what limitations exist when relying on automated tools for such issue.
 
 
 
@@ -24,4 +24,7 @@ Gender bias in Wikipedia biographies often shows up through unequal coverage, la
 This project analyzes Wikipedia articles to investigate how bias can be detected. Using Python, we extract text summaries from Wikipedia pages and identify potential biased language by searching for specific indicator words associated with subjective or opinionated writing.
 
 We also incorporate research from prior studies on Wikipedia bias, such as structural editor biases, gender bias in text, and the influence of automation on content representation. By combining text analysis with metadata on edits and editor activity, we track patterns of bias introduction and correction over time.
+
+### test_wikipedia_api.py
+
 
