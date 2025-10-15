@@ -20,6 +20,22 @@ As AI tools become more integrated into Wikipedia editing, they have the potenti
 Gender bias in Wikipedia articles often shows up through unequal coverage, language, or framing of women compared to men. AI models offer a way to detect these patterns, but they may also reflect the same biases present in their training data. This project explores how effectively AI can identify gender bias and what limitations exist when relying on automated tools for such issue.
 
 
+## Research Question Week 7
+<b>Do articles about women link to fewer other Wikipedia articles than articles about men?</b>
+
+-Selected two groups of articles: male and female scientists.
+-Retrieved each article’s number of internal links using page.links.
+-Calculated the average number of links for male and female groups.
+-Compared averages to see if female articles link to fewer other pages.
+
+### week7.py
+Our program can simply just be ran and the average number of links for males and females will be displayed. Alternatively, any other names of males and females from other fields can be entered into the lists at the top of the program and the same data analysis can be ran on professional athletes for example.
+
+With the help of this program we were able to determine that on average, male scientists had 943 links from articles,while female scientists had only 612 links from articles. Therefore, from this example we can determine that there is a favored bias towards males over their female counterparts.
+
+Using the results of this program, and with more trials in different areas of study, we can truly answer if there is a specific male bias on wikiepedia when it comes to links. Considering links are how users jump from article to article, we can predict if male articles obtain more traffic than female articles due to this bias. 
+
+
 
 ## Methodology
 This project will analyze Wikipedia articles to investigate how bias can be detected. Using Python, we can extract text summaries from Wikipedia pages and identify potential biased language by searching for specific indicator words associated with biased writing.
