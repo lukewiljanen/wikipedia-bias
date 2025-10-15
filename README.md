@@ -24,8 +24,11 @@ Gender bias in Wikipedia articles often shows up through unequal coverage, langu
 <b>Do articles about women link to fewer other Wikipedia articles than articles about men?</b>
 
 -Selected two groups of articles: male and female scientists.
+
 -Retrieved each article’s number of internal links using page.links.
+
 -Calculated the average number of links for male and female groups.
+
 -Compared averages to see if female articles link to fewer other pages.
 
 ### week7.py
