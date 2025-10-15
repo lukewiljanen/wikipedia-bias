@@ -32,6 +32,7 @@ Gender bias in Wikipedia articles often shows up through unequal coverage, langu
 -Compared averages to see if female articles link to fewer other pages.
 
 ### week7.py
+[week7.py](week7.py)
 Our program can simply just be ran and the average number of links for males and females will be displayed. Alternatively, any other names of males and females from other fields can be entered into the lists at the top of the program and the same data analysis can be ran on professional athletes for example.
 
 With the help of this program we were able to determine that on average, male scientists had 943 links from articles,while female scientists had only 612 links from articles. Therefore, from this example we can determine that there is a favored bias towards males over their female counterparts.
